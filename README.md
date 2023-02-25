@@ -1,15 +1,6 @@
-## 👋 Hi! I'm Maksim
-<br/>
-Welcome to my profile! I am a novice developer. I am studying the technology of creating modern web applications. I want to become a sought-after specialist in this industry.
-<br/>
-<br/>
+### 👋 Hi! I'm Maksim
 
-### 🧐 More about me:
-
-- 🌱 &nbsp; I’m currently learning JavaScript and React
-- 👯 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/Programistic/sheets-database)
-- 📫 &nbsp; Feel free to ping me on [Telegram]:(https://t.me/tel_maksim)
-- 📚 &nbsp; When I am free, I play with my dog.
+##### Welcome to my profile! I am a novice developer. I am studying the technology of creating modern web applications. I want to become a sought-after specialist in this industry.
 
 ### 🔨 My technology stack
 
@@ -22,7 +13,22 @@ Welcome to my profile! I am a novice developer. I am studying the technology of 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br>
+### 🛠️ My Projects
+<a href="https://github.com/Programistic/" target="_blank"> <img alt="Кинопоиск" src="https://films-explorer.nomoredomains.sbs" height="68" align="left"> </a>
+<a href="https://github.com/Programistic/" target="_blank"> <img alt="Место" src="https://programistic.github.io/mesto/"  height="68" align="left"> </a>
+<a href="https://github.com/Programistic/" target="_blank"> <img alt="Научиться учиться" src="https://cut-plantation.surge.sh" height="68" align="left"> </a>
+
+<!--
+- 🔭 I’m currently working on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/...)
+### 🧐 More about me:
+
+- 🌱 &nbsp; I’m currently learning JavaScript and React
+- 👯 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/Programistic/sheets-database)
+- 📫 &nbsp; Feel free to ping me on [Telegram]:(https://t.me/tel_maksim)
+- 📚 &nbsp; When I am free, I play with.
 
 ### 📊 Github Stats
 <a href='https://github.com/Programistic/github-stats-transparent'>
@@ -31,17 +37,4 @@ Welcome to my profile! I am a novice developer. I am studying the technology of 
 ![Most Used Languages](https://raw.githubusercontent.com/Programistic/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="" src="" height="68" align="left"> </a>
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="" src=""  height="68" align="left"> </a>
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="" src="" height="68" align="left"> </a>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/...)
 -->
