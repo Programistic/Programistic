@@ -1,7 +1,7 @@
-### 👋 Hi! I'm Maksim
+## 👋 Hi! I'm Maksim
  Welcome to my profile! I am a novice developer. I am studying the technology of creating modern web applications. I want to become a sought-after specialist in this industry.
 
-### 🔨 My technology stack
+## 🔨 My technology stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -11,11 +11,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 🛠️ Мy training projects
-* #### [SearchMovies](https://films-explorer.nomoredomains.sbs)
-* #### [Mesto](https://programistic.github.io/mesto/)
-* #### [RussianTravel](https://programistic.github.io/russian-travel/)
-* #### [HowToLearn](https://cut-plantation.surge.sh)
+## 🛠️ Мy training projects
+### [SearchMovies](https://films-explorer.nomoredomains.sbs)
+### [Mesto](https://programistic.github.io/mesto/)
+### [RussianTravel](https://programistic.github.io/russian-travel/)
+### [HowToLearn](https://cut-plantation.surge.sh)
 
 <!--
 
