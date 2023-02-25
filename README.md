@@ -12,24 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🛠️ Мy training projects
-### 🚀  [SearchMovies](https://films-explorer.nomoredomains.sbs)
-### 🚀  [Mesto](https://programistic.github.io/mesto/)
-### 🚀  [RussianTravel](https://programistic.github.io/russian-travel/)
-### 🚀  [HowToLearn](https://cut-plantation.surge.sh)
-
-<!--
-- 🏢 
-- 💻 
-🌱 💻 🔭
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/...)
-### 🧐 More about me:
-
-- 🌱 &nbsp; I’m currently learning JavaScript and React
-- 👯 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/Programistic/sheets-database)
-- 📫 &nbsp; Feel free to ping me on [Telegram]:(https://t.me/tel_maksim)
-- 📚 &nbsp; When I am free, I play with.
-
-### 📊 Github Stats
--->
+### 🚀 [SearchMovies](https://films-explorer.nomoredomains.sbs)
+### 🚀 [Mesto](https://programistic.github.io/mesto/)
+### 🚀 [RussianTravel](https://programistic.github.io/russian-travel/)
+### 🚀 [HowToLearn](https://cut-plantation.surge.sh)
