@@ -8,28 +8,21 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 ## 🛠️ Мy training projects
-### [SearchMovies](https://films-explorer.nomoredomains.sbs)
-### [Mesto](https://programistic.github.io/mesto/)
-### [RussianTravel](https://programistic.github.io/russian-travel/)
-### [HowToLearn](https://cut-plantation.surge.sh)
+### 🌱 [SearchMovies](https://films-explorer.nomoredomains.sbs)
+### 🚀 [Mesto](https://programistic.github.io/mesto/)
+### 💻 [RussianTravel](https://programistic.github.io/russian-travel/)
+🔭 &nbsp; [HowToLearn](https://cut-plantation.surge.sh)
 
 <!--
-![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-<a href="https://films-explorer.nomoredomains.sbs" target="_blank">SearchMovies</a>
-<br>
-<a href="https://programistic.github.io/mesto/" target="_blank">Mesto</a>
-<br>
-<a href="https://programistic.github.io/russian-travel/" target="_blank">RussianTravel</a>
-<br>
-<a href="https://cut-plantation.surge.sh" target="_blank">HowToLearn</a>
-<br>
+- 🏢 
+- 💻 
+ 
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -42,10 +35,4 @@
 - 📚 &nbsp; When I am free, I play with.
 
 ### 📊 Github Stats
-<a href='https://github.com/Programistic/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Programistic/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Programistic/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 -->
