@@ -11,12 +11,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 🛠️ My Projects
+### 🛠️ Мy training projects
 <a href="https://films-explorer.nomoredomains.sbs" target="_blank">SearchMovies</a>
 <br>
 <a href="https://programistic.github.io/mesto/" target="_blank">Mesto</a>
 <br>
 <a href="https://programistic.github.io/russian-travel/" target="_blank">RussianTravel</a>
+<br>
+<a href="https://cut-plantation.surge.sh" target="_blank">HowToLearn</a>
 <br>
 
 <!--
