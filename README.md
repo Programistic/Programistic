@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Maksim
-#### Welcome to my profile! I am a novice developer. I am studying the technology of creating modern web applications. I want to become a sought-after specialist in this industry.
+ Welcome to my profile! I am a novice developer. I am studying the technology of creating modern web applications. I want to become a sought-after specialist in this industry.
 
 ### 🔨 My technology stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -12,9 +12,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### 🛠️ My Projects
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="Кинопоиск" src="https://films-explorer.nomoredomains.sbs" height="68" align="left"> </a> <br>
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="Место" src="./mesto/"  height="68" align="left"> </a> <br>
-<a href="https://github.com/Programistic/" target="_blank"> <img alt="Научиться учиться" src="https://cut-plantation.surge.sh" height="68" align="left"> </a> <br>
+<a href="https://films-explorer.nomoredomains.sbs" target="_blank">SearchMovies</a>
+<br>
+<a href="https://programistic.github.io/mesto/" target="_blank">Mesto</a>
+<br>
+<a href="https://programistic.github.io/russian-travel/" target="_blank">RussianTravel</a>
+<br>
 
 <!--
 - 🔭 I’m currently working on ...
