@@ -12,6 +12,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### 🛠️ Мy training projects
+* #### [SearchMovies](https://films-explorer.nomoredomains.sbs)
+* #### [Mesto](https://programistic.github.io/mesto/)
+* #### [RussianTravel](https://programistic.github.io/russian-travel/)
+* #### [HowToLearn](https://cut-plantation.surge.sh)
+
+<!--
+
 <a href="https://films-explorer.nomoredomains.sbs" target="_blank">SearchMovies</a>
 <br>
 <a href="https://programistic.github.io/mesto/" target="_blank">Mesto</a>
@@ -20,8 +27,6 @@
 <br>
 <a href="https://cut-plantation.surge.sh" target="_blank">HowToLearn</a>
 <br>
-
-<!--
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
