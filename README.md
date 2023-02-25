@@ -8,22 +8,19 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 ## 🛠️ Мy training projects
-### 🌱 [SearchMovies](https://films-explorer.nomoredomains.sbs)
-### 🚀 [Mesto](https://programistic.github.io/mesto/)
-### 💻 [RussianTravel](https://programistic.github.io/russian-travel/)
-🔭 &nbsp; [HowToLearn](https://cut-plantation.surge.sh)
+### 🚀  [SearchMovies](https://films-explorer.nomoredomains.sbs)
+### 🚀  [Mesto](https://programistic.github.io/mesto/)
+### 🚀  [RussianTravel](https://programistic.github.io/russian-travel/)
+### 🚀  [HowToLearn](https://cut-plantation.surge.sh)
 
 <!--
 - 🏢 
 - 💻 
- 
-- 🔭 I’m currently working on ...
+🌱 💻 🔭
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/...)
