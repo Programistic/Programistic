@@ -12,8 +12,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🛠️ Some of my training projects
-💝 **[Movies explorer](https://films-explorer.nomoredomains.sbs)**
-💜 **[Mesto](https://programistic.github.io/mesto/)**
-### 💛 [Travel in Russia](https://programistic.github.io/russian-travel/)
-### 💚 [How to learn](https://cut-plantation.surge.sh)
-### 💙 [Cognitive biases](https://erratic-size.surge.sh)
+#### 💝 <nbsp;> [Movies explorer](https://films-explorer.nomoredomains.sbs)
+#### 💜 [Mesto](https://programistic.github.io/mesto/)
+#### 💛 [Travel in Russia](https://programistic.github.io/russian-travel/)
+#### 💚 [How to learn](https://cut-plantation.surge.sh)
+#### 💙 [Cognitive biases](https://erratic-size.surge.sh)
