@@ -11,8 +11,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 🛠️ Мy training projects
-### 🚀 [SearchMovies](https://films-explorer.nomoredomains.sbs)
-### 🚀 [Mesto](https://programistic.github.io/mesto/)
-### 🚀 [RussianTravel](https://programistic.github.io/russian-travel/)
-### 🚀 [HowToLearn](https://cut-plantation.surge.sh)
+## 🛠️ Some of my training projects
+### 💝 [Movies explorer](https://films-explorer.nomoredomains.sbs)
+### 💜 [Mesto](https://programistic.github.io/mesto/)
+### 💛 [Travel in Russia](https://programistic.github.io/russian-travel/)
+### 💚 [How to learn](https://cut-plantation.surge.sh)
