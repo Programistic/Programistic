@@ -16,3 +16,4 @@
 ### 💜 [Mesto](https://programistic.github.io/mesto/)
 ### 💛 [Travel in Russia](https://programistic.github.io/russian-travel/)
 ### 💚 [How to learn](https://cut-plantation.surge.sh)
+### 💙 [Cognitive biases](https://erratic-size.surge.sh)
