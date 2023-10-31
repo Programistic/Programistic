@@ -12,6 +12,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🛠️ Some of my training projects
+## 2023
+### 💝 &nbsp; [S_chistogo_lista](https://programistic.github.io/s-chistogo-lista/)
+### 💝 &nbsp; [Ono_tebe_nado](https://programistic.github.io/ono-tebe-nado/)
+### 💝 &nbsp; [Nado_sdelat_idealno](https://programistic.github.io/nado_sdelat_idealno/)
+## 2022 and later
 ### 💝 &nbsp; [Movies explorer](https://films-explorer.nomoredomains.sbs)
 ### 💜 &nbsp; [Mesto](https://programistic.github.io/mesto/)
 ### 💛 &nbsp; [Travel in Russia](https://programistic.github.io/russian-travel/)
