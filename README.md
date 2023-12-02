@@ -13,6 +13,7 @@
 
 ## 🛠️ Some of my training projects
 ## 2023
+### 📦 &nbsp; [Karty-podskazhut](https://programistic.github.io/karty-podskazhut/)
 ### 📦 &nbsp; [Posmotri_v_okno](https://programistic.github.io/posmotri_v_okno/)
 ### 📦 &nbsp; [Nado_sdelat_idealno](https://programistic.github.io/nado_sdelat_idealno/)
 ### 📦 &nbsp; [Ono_tebe_nado](https://programistic.github.io/ono-tebe-nado/)
