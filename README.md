@@ -12,12 +12,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🛠️ Some of my training projects
+## 2024
+### 📦 &nbsp; [Сложно сосредоточиться](https://programistic.github.io/slozhno-sosredotochitsya/)
 ## 2023
-### 📦 &nbsp; [Karty-podskazhut](https://programistic.github.io/karty-podskazhut/)
-### 📦 &nbsp; [Posmotri_v_okno](https://programistic.github.io/posmotri_v_okno/)
-### 📦 &nbsp; [Nado_sdelat_idealno](https://programistic.github.io/nado_sdelat_idealno/)
-### 📦 &nbsp; [Ono_tebe_nado](https://programistic.github.io/ono-tebe-nado/)
-### 📦 &nbsp; [S_chistogo_lista](https://programistic.github.io/s-chistogo-lista/)
+### 📦 &nbsp; [Карты подскажут](https://programistic.github.io/karty-podskazhut/)
+### 📦 &nbsp; [Посмотри в окно](https://programistic.github.io/posmotri_v_okno/)
+### 📦 &nbsp; [Надо сделать идеально](https://programistic.github.io/nado_sdelat_idealno/)
+### 📦 &nbsp; [Оно тебе надо?](https://programistic.github.io/ono-tebe-nado/)
+### 📦 &nbsp; [С чистого листа](https://programistic.github.io/s-chistogo-lista/)
 ## 2022 and later
 ### 💝 &nbsp; [Movies explorer](https://films-explorer.nomoredomains.sbs)
 ### 💜 &nbsp; [Mesto](https://programistic.github.io/mesto/)
