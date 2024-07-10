@@ -12,7 +12,7 @@
 
 ## 🛠️ Some of my training projects
 ## 2024
-### 📦 &nbsp; [Cafe-Burger](https://programistic.github.io/cafe-burger/)
+### ![icons8-официант-16] &nbsp; [Cafe-Burger](https://programistic.github.io/cafe-burger/)
 ### 📦 &nbsp; [Закрывающий тег](https://programistic.github.io/zakrivayuschiy-teg/)
 ### 📦 &nbsp; [Сложно сосредоточиться](https://programistic.github.io/slozhno-sosredotochitsya/)
 ## 2023
