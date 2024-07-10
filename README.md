@@ -7,12 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🛠️ Some of my training projects
 ## 2024
+### 📦 &nbsp; [Cafe-Burger](https://programistic.github.io/cafe-burger/)
 ### 📦 &nbsp; [Закрывающий тег](https://programistic.github.io/zakrivayuschiy-teg/)
 ### 📦 &nbsp; [Сложно сосредоточиться](https://programistic.github.io/slozhno-sosredotochitsya/)
 ## 2023
