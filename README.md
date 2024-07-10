@@ -13,8 +13,8 @@
 ## 🛠️ Some of my training projects
 ## 2024
 ### ![icons8-официант-16](https://github.com/Programistic/Programistic/assets/71271710/bf01eef6-f460-4e86-a5aa-213d5482a1e6) &nbsp; [Cafe-Burger](https://programistic.github.io/cafe-burger/)
-### 📦 &nbsp; [Закрывающий тег](https://programistic.github.io/zakrivayuschiy-teg/)
-### 📦 &nbsp; [Сложно сосредоточиться](https://programistic.github.io/slozhno-sosredotochitsya/)
+### ![icons8-исходный-код-16](https://github.com/Programistic/Programistic/assets/71271710/55f4df69-48fd-4d48-8002-4ec996bce9e7) &nbsp; [Закрывающий тег](https://programistic.github.io/zakrivayuschiy-teg/)
+### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/18cec70c-fb0d-460d-ae43-eef5c8113b9e) &nbsp; [Сложно сосредоточиться](https://programistic.github.io/slozhno-sosredotochitsya/)
 ## 2023
 ### 📦 &nbsp; [Карты подскажут](https://programistic.github.io/karty-podskazhut/)
 ### 📦 &nbsp; [Посмотри в окно](https://programistic.github.io/posmotri_v_okno/)
