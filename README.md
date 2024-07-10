@@ -21,8 +21,8 @@
 ### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/f8a3c88d-3eb5-4f36-8936-0d8a876d7023) &nbsp; [Надо сделать идеально](https://programistic.github.io/nado_sdelat_idealno/)
 ### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/df405a73-56fb-48b0-9553-645f4357e188) &nbsp; [Оно тебе надо?](https://programistic.github.io/ono-tebe-nado/)
 ## 2022 and later
-### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/8c05dbe7-7c53-4041-8bef-b6fe5837c817) &nbsp; [Movies explorer](https://films-explorer.nomoredomains.sbs)
-### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/de88a1d4-e40e-48af-9bc3-5f3b377a0380) &nbsp; [Mesto](https://programistic.github.io/mesto/)
-### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/8d609c82-abf7-47bd-9a7a-3846818e8782) &nbsp; [Travel in Russia](https://programistic.github.io/russian-travel/)
-### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/ffbe06d7-c017-4337-8ea8-371815344036) &nbsp; [How to learn](https://cut-plantation.surge.sh)
-### ![icons8-код-16](https://github.com/Programistic/Programistic/assets/71271710/c2fbfb02-8d14-4d95-b370-bb98f377348e) &nbsp; [Cognitive biases](https://erratic-size.surge.sh)
+### ![icons8-кодовый-файл-16](https://github.com/Programistic/Programistic/assets/71271710/a3a6d461-406b-47a5-ab87-17ea42423702) &nbsp; [Movies explorer](https://films-explorer.nomoredomains.sbs)
+### ![icons8-кодовый-файл-16](https://github.com/Programistic/Programistic/assets/71271710/531e579d-5d73-4a0c-a77b-1b8c2e5a4b5f) &nbsp; [Mesto](https://programistic.github.io/mesto/)
+### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [Travel in Russia](https://programistic.github.io/russian-travel/)
+### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [How to learn](https://cut-plantation.surge.sh)
+### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [Cognitive biases](https://erratic-size.surge.sh)
