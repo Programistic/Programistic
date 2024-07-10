@@ -23,6 +23,6 @@
 ## 2022 and later
 ### ![icons8-кодовый-файл-16](https://github.com/Programistic/Programistic/assets/71271710/a3a6d461-406b-47a5-ab87-17ea42423702) &nbsp; [Movies explorer](https://films-explorer.nomoredomains.sbs)
 ### ![icons8-кодовый-файл-16](https://github.com/Programistic/Programistic/assets/71271710/531e579d-5d73-4a0c-a77b-1b8c2e5a4b5f) &nbsp; [Mesto](https://programistic.github.io/mesto/)
-### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [Travel in Russia](https://programistic.github.io/russian-travel/)
-### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [How to learn](https://cut-plantation.surge.sh)
-### ![icons8-картина-16](https://github.com/Programistic/Programistic/assets/71271710/fa37a0f7-88d0-4bb0-ae10-8e0e7dfead1f) &nbsp; [Cognitive biases](https://erratic-size.surge.sh)
+### ![icons8-спа-цветок-16](https://github.com/Programistic/Programistic/assets/71271710/7e4d49bc-c027-45a2-b754-4d60ece3fb49) &nbsp; [Travel in Russia](https://programistic.github.io/russian-travel/)
+### ![icons8-спа-цветок-16](https://github.com/Programistic/Programistic/assets/71271710/138ff95a-44fb-41f1-9740-03d011e49291) &nbsp; [How to learn](https://cut-plantation.surge.sh)
+### ![icons8-спа-цветок-16](https://github.com/Programistic/Programistic/assets/71271710/0b82faf3-d085-418c-91c8-473a41394dda) &nbsp; [Cognitive biases](https://erratic-size.surge.sh)
